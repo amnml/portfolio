@@ -46,7 +46,7 @@ test("answers only link to curated portfolio or contact destinations", () => {
   for (const question of ["projects", "Codo", "contact", "resume", "skills", "experience", "unknown"]) {
     for (const { href } of getAnswer(question).links) {
       if (href === "https://drive.google.com/file/d/1kYkDvaHlf5aIC6p7wbB5iiHYsIIBdmLT/view?usp=drivesdk") continue;
-      assert.match(href, /^(\/#|mailto:mulaniaman0504@gmail\.com$|https:\/\/(github\.com\/amanmulani09|www\.linkedin\.com\/in\/aman-mulani\/))/);
+      assert.match(href, /^(\/#|mailto:mulaniaman0504@gmail\.com$|https:\/\/(github\.com\/amnml|www\.linkedin\.com\/in\/aman-mulani\/))/);
     }
   }
 });

@@ -86,7 +86,7 @@ def bullet(story: list, text: str) -> None:
 story = [
     Paragraph("Aman Mulani", name_style),
     Paragraph(
-        "+91 7378617999 &nbsp;|&nbsp; mulaniaman0504@gmail.com &nbsp;|&nbsp; linkedin.com/in/amanmulani &nbsp;|&nbsp; github.com/amanmulani09",
+        "+91 7378617999 &nbsp;|&nbsp; mulaniaman0504@gmail.com &nbsp;|&nbsp; linkedin.com/in/amanmulani &nbsp;|&nbsp; github.com/amnml",
         contact_style,
     ),
     Paragraph(
@@ -138,7 +138,7 @@ for label, text in [
     ("Languages &amp; Backend", "Python, TypeScript, JavaScript, SQL, FastAPI, Node.js, PostgreSQL, Redis, REST, GraphQL"),
     ("Frontend", "React, Next.js, React Native, Astro, Tailwind CSS, Playwright"),
     ("Cloud &amp; Delivery", "AWS (S3, CloudFront, ECS, Route53), Docker, GitHub Actions, CI/CD"),
-    ("Engineering", "System design, API design, automated testing, observability, production debugging, performance optimization, code reviews"),
+    ("Engineering", "System design, API design, end-to-end feature ownership, automated and integration testing, observability, production debugging, performance optimization, code reviews, technical documentation"),
 ]:
     story.append(Paragraph(f"<b>{label}:</b> {text}", skill_style))
 

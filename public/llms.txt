@@ -11,7 +11,7 @@ AI & Full-Stack Engineer based in India. Building software professionally since 
 ## Personal project
 
 Codo is an AI code review service using GitHub Apps, FastAPI, Redis, and LLMs to flag potential quality and security issues in pull requests.
-Repository: https://github.com/amanmulani09/codo
+Repository: https://github.com/amnml/codo
 
 ## Skills
 
@@ -20,7 +20,7 @@ Repository: https://github.com/amanmulani09/codo
 - Frontend: React, Next.js, Astro, React Native, Tailwind CSS.
 - Backend: FastAPI, Node.js, PostgreSQL, Redis, REST APIs, GraphQL.
 - Cloud and delivery: GCP / Cloud Run, AWS (S3, CloudFront, Route 53), Docker, GitHub Actions, CI/CD, Grafana.
-- Engineering: system design, API design, automated and integration testing, Playwright, observability, production debugging, performance optimization, code reviews.
+- Engineering: system design, API design, end-to-end feature ownership, automated and integration testing, observability, production debugging, performance optimization, code reviews, and technical documentation.
 
 ## Education
 
@@ -31,7 +31,7 @@ Bachelor of Computer Applications, College of Computer Science and Information T
 - Portfolio: https://aman-mulani.vercel.app/
 - Résumé: https://drive.google.com/file/d/1kYkDvaHlf5aIC6p7wbB5iiHYsIIBdmLT/view?usp=drivesdk — Request access and include a reason.
 - LinkedIn: https://www.linkedin.com/in/aman-mulani/
-- GitHub: https://github.com/amanmulani09
+- GitHub: https://github.com/amnml
 - Email: mulaniaman0504@gmail.com
 
 Content source: updated résumé supplied September 6, 2026. Availability, salary, notice period, and relocation preferences are not specified.
